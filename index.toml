@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5fd5036c47d6cddd886c88040d62c840ced869c8a86c349c52c569ce5c00633b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "b624025b3adec418e6d50cc46b00c9c73ce1da15ae5950d9d0b9b5ec5a2d4ff8"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "d918a7fd39a42c5510da9646649da38ece86c71f23b943dcec9fbfde5258722f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
+metafile = true
