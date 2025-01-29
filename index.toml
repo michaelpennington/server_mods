@@ -5,6 +5,10 @@ file = "config/.keep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/servux.json"
+hash = "bb54df2552f5267e473097ab8bdb99bbc9aa34a191d9fc5b3ec137728e036f65"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
