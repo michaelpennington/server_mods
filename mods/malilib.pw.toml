@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/bWdPm0zw/malilib-fabric-1.21.4-0.23.1.jar"
-hash-format = "sha512"
-hash = "71e62075ca794e2f4ac33d1890c7b7f0e9a091fbd1bc31705c3d02a5ee9e2e56ef0a247318d731aeefc4e591ce2cef64331ce8ecac242d6a053c35f5440faf6b"
+hash-format = "sha256"
+hash = "7552379cab6c191ce03d146096f18db37e8999442cfd85de1a24e94fb88b1df5"
 
 [update]
 [update.modrinth]

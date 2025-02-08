@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/onSQdWhM/versions/d0hbyJyn/libIPN-fabric-1.21.3-6.2.1.jar"
-hash-format = "sha512"
-hash = "a0073e5af190514b85c00d2564fa17caa04d1791e18449ad015fea8eae34b0f3bd81a356e7a27d6a201b21e29ba6e4ffd11ff9d22518c10b4c00aeb656b66fad"
+hash-format = "sha256"
+hash = "57d365439081c9f81505a1fb12fb8a5d8eb2614631fc8cbda348cdaa57ac9b9b"
 
 [update]
 [update.modrinth]

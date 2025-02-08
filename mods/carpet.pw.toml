@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/aVB2lYQQ/fabric-carpet-1.21.4-1.4.161%2Bv241203.jar"
-hash-format = "sha512"
-hash = "fd42f43ae89af7553ee1b8240efda178a05f5b0f45fe359651cea468cfd11fe24996e991c338522f4a17b07b917e9ebda4a5cfa8551fca280c81e536b240a96c"
+hash-format = "sha256"
+hash = "03114efd99c597a638643d8eb97b7dc485318c007750775d8a5e8c866b44ed76"
 
 [update]
 [update.modrinth]
