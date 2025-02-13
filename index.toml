@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e6402f6bd5d8fa6217762a4c9c614ad3edb5d96c5e4d5e4fe1f6522aec552a1d"
+hash = "0ed5ad630aabb0c3ca89f413a6dba81734e378e8bc825b7d8ca0f9349d7d0b27"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d78a271791ab647999d73fcbe31f2bbf87807d75afc590008dfa5e394333ee9f"
+hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4542eb5bfa39c2b5c3439845a87af897506dd968b433f10b289d5661db9f60aa"
+hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
 metafile = true
 
 [[files]]
