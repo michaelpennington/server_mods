@@ -9,17 +9,18 @@ file = "config/servux.json"
 hash = "bb54df2552f5267e473097ab8bdb99bbc9aa34a191d9fc5b3ec137728e036f65"
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.3.0-b-dev-1.21.4.jar"
-hash = "2b2178d02eeb7acb6653bd01b9e560d0353439e3906818e8a1e5edd47c23f7a9"
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "1b292d3aab65dde3082b9439da47f5d453bd160bc2e0f98191ee22c5b60f378b"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
@@ -29,60 +30,60 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "e726cb4e05234381e07fe371f118a4cff7a65c7898786136e50165effa42d6fa"
+hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "e5fb5269de3633495c3964bb008fbd9b9f15e345e53f6ccee7e1a29fe730ba73"
+hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "0f7f066cbccb9fcdb21bc77884aaeb05402f192aaa0c6dd2c9f3ab22c7425ce4"
+hash = "cc1314e3543a221118835b789aa11a588e752f43fe73689630b6633a724ed4f9"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "bc2593ee70b981e2b23074ff2ef9a074c15aecdc6f4ac35ca2d96a56dddf6e1e"
+hash = "e211f2d9ee543b916ac3e6492ee362deabb2534851c70faa3002b40a24bbd72b"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "d3867bcc3aabd11060e9dd7d7e731533c36ed0fc8c27d3bbf470a664911d3788"
+hash = "bcf6758739703dd3f720b64fd4d290a8f185036568eae8c8ed3783fe4ff47c03"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "f0d3c66182eeea4d780b779bc4d06a07eac23aa5ce5dacf75a6dc3310c950c42"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "3b17e66731ff713699196e93e74ba9fae96aa37b3a6abc36f24a2dee9b8ee480"
+hash = "c41c5c8356698d08f27e80d23a600dd462f1ea1c63e02e78f5002b26c24093a4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "24c09cf676943991397e15eba13c14598dbe3575cf025abcebb22947c450febf"
+hash = "a58ded2e26d60184397529863e63f2bbdf7d73122d7f3de6741a9ae2c7ee77ff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f9a56aae48d3811ebbda55642fe533a1336b4e7b0b558cde6db9850d704d0ed9"
+hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a8c5e8c4dd782fd9f7ab7ceb9471e0941b03d62df0e77e6dae816856d8ceeb21"
+hash = "fe9449da746886203535377f2369a2f413f1548b9015df0899e89edd250f2a10"
 metafile = true
