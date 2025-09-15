@@ -1,12 +1,12 @@
 name = "Server Mods"
 author = "Michael Pennington"
-version = "1.2.2"
+version = "1.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6bb6040dda75f6aa8e12c318fb53c3c4c17426ab791de7ce581a192fb0c746d"
+hash = "deb3bdf59a9ddeca7b3f4e251b2459b706698510a76ba7de7f0c77b2926eaeea"
 
 [versions]
 fabric = "0.17.2"
