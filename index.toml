@@ -19,6 +19,11 @@ hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/litematica.pw.toml"
 hash = "cc1314e3543a221118835b789aa11a588e752f43fe73689630b6633a724ed4f9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
 
 [[files]]
@@ -52,3 +62,11 @@ metafile = true
 file = "mods/tweakeroo.pw.toml"
 hash = "a58ded2e26d60184397529863e63f2bbdf7d73122d7f3de6741a9ae2c7ee77ff"
 metafile = true
+
+[[files]]
+file = "pack-instance.sh"
+hash = "9ac81aa5013dcbfb39d98a391220ffb1e7ca382988134cd8052e37d033bf09c7"
+
+[[files]]
+file = "pack-instance.toml"
+hash = "5d5a19b267e39cb1d093ccdfd776ab2db6f5b7f62fff7aeff3a2f842e7f02acd"
