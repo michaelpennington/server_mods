@@ -9,13 +9,33 @@ file = "config/servux.json"
 hash = "bb54df2552f5267e473097ab8bdb99bbc9aa34a191d9fc5b3ec137728e036f65"
 
 [[files]]
+file = "mods/better-suggestions.pw.toml"
+hash = "81b96b47638d2e35d3335628ce49315d6d122dbb5c052e6a3168c5ca958e2709"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "2c912bceb71760927f62a82238e320e6eccaa57383d8f0db9e729b4b6dd5e063"
 metafile = true
 
 [[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "7c6498f598f7a71d7d285b87ab44383e3be1eed32330aaa7d0e4ff5332256346"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
@@ -26,6 +46,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "143c142b7ff72c55425156edac3c7328b664d99dda2f1c6a1dee399d7f51a833"
 metafile = true
 
 [[files]]
@@ -49,6 +79,16 @@ hash = "bcf6758739703dd3f720b64fd4d290a8f185036568eae8c8ed3783fe4ff47c03"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "d2d74dfbf7b07c41caf6197d366972ec859bdb89e541df0fc4ae718979870689"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "c41c5c8356698d08f27e80d23a600dd462f1ea1c63e02e78f5002b26c24093a4"
 metafile = true
@@ -56,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "9a1695184cdb4646ae5deef3ed576e7dc1235cff1ff20493aa482a2c512928b0"
 metafile = true
 
 [[files]]
