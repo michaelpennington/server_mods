@@ -1,16 +1,16 @@
 name = "Server Mods"
 author = "Michael Pennington"
-version = "1.3.1"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6da71ae17d31cffb45efae5457cfe73c21a1b6e9cff2a26b9c1283437ade0dbc"
+hash = "1995ea44ddf3c077e54a48b74c75defb1ef98b35cc2eff063d4182e7d207fc8e"
 
 [versions]
 fabric = "0.17.2"
-minecraft = "1.21.8"
+minecraft = "1.21.9"
 
 [options]
 acceptable-game-versions = ["1.21.7"]
