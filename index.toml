@@ -9,6 +9,11 @@ file = "config/servux.json"
 hash = "bb54df2552f5267e473097ab8bdb99bbc9aa34a191d9fc5b3ec137728e036f65"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
+metafile = true
+
+[[files]]
 file = "mods/better-suggestions.pw.toml"
 hash = "81b96b47638d2e35d3335628ce49315d6d122dbb5c052e6a3168c5ca958e2709"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "a58ded2e26d60184397529863e63f2bbdf7d73122d7f3de6741a9ae2c7ee77ff"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b915a285a111e65aed4ad2ce81be613040e9285caca1b2ef6b88ed639f811670"
 metafile = true
 
 [[files]]
