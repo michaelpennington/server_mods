@@ -119,6 +119,16 @@ hash = "b915a285a111e65aed4ad2ce81be613040e9285caca1b2ef6b88ed639f811670"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d72a8ffcacdd19e6d71eccb4b112cf763bf75b2c438506e01ab0aa76e91c6325"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f3b0dc8728401319a897b51835b2b65898dc3b769aa1f1ed0a1f513bd91c409a"
+metafile = true
+
+[[files]]
 file = "pack-instance.sh"
 hash = "9ac81aa5013dcbfb39d98a391220ffb1e7ca382988134cd8052e37d033bf09c7"
 
