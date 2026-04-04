@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "e8037cd61fedd84c643a94777c6ed63b50d78372fa99b232c4deecf9071873bd"
+hash = "ac16b53ba189f721a6b542020dcad6b0eeb40fec587cf88b8059b61e6df0a38c"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "94d7bb39b8ec02e47d319222db23c6d57da2a4ce9195e111f9822f40fefb299f"
+hash = "42a2eef2edf51e4c038ae6f9de8b24745b2516146cdb79b0e7917f83b54c7468"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ea89277e095f61f86592bac8b8cad7835bd1e05e6924e8c97fa7aa3e568eaf5a"
+hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "61a707b93264a0f4339d168ce3d63d4dfcf6748d2ea71c2f032f2b68eb30a355"
+hash = "32d5fa474ab7b60acfa09094744542fd8215bace6d90904ad7a188a04eb472e5"
 metafile = true
 
 [[files]]
