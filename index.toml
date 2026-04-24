@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "71f4e1068f5e8d476ad912c268b2ea7f7542ef363c7e122a377125e1af0293cf"
+hash = "3de89e93b02577680f5b6aace8f5cd604e182cd38fc11760fbc03ba518f71a7f"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "c5cf55b4ec0c694443ae7769d9d96b7ae69aef8a94e7d74f884014b7f5102234"
+hash = "3750aa5e0f26b0a27ccd97ca1bdd38d05607789d24320e4837a8c128428eb070"
 metafile = true
 
 [[files]]
