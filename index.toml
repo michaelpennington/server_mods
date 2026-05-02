@@ -84,6 +84,11 @@ hash = "44de8b95afa9b4c72c2123ee2cb853657af538ae6a0405ccc0128dd6d5830b86"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "84f7568e4fb421bb7e16265c923db435aeb9cdcccdfbdcf135a63a85f6dcb9ec"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "31ad2138b2ffe18315ea39517ea32e0e1f8351ea7f1d57242f5ea8d418aad219"
 metafile = true
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "50d3bc699972d50bf89d51048a4bff2841f540c3e169a4093fb89a88487c3604"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "563c254d84ba53aea8e9a9d4526e51d2757ef314546fa2d9de757b9096b66368"
 metafile = true
 
 [[files]]
