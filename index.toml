@@ -14,6 +14,11 @@ hash = "74319ca347167cb3db382349474b4c9d1889fb5894ddb723bd252e5b195d8558"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "fbb95f1f234b60ae745ba25e059b91ec84a100490df1bbed2bd023c920c1446e"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "08d7f02a719328b6413378ed98be313f7e781adc202d0aacf2788742635097c5"
 metafile = true
@@ -21,11 +26,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-debug.pw.toml"
 hash = "5dfbf5f2dca1eeb130b5ad2692735f6c184f8088fff1781304048ee4eb8b454b"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "02828b2aa206fef8d3ab65097624e14712878bed28eff738e4c9a6f311ac5d91"
 metafile = true
 
 [[files]]
@@ -96,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "31ad2138b2ffe18315ea39517ea32e0e1f8351ea7f1d57242f5ea8d418aad219"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
