@@ -1,13 +1,13 @@
 name = "Polymer"
-filename = "polymer-bundled-0.16.4+26.1.2.jar"
+filename = "polymer-bundled-0.18.5+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xGdtZczs/versions/BkYLqhON/polymer-bundled-0.16.4%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/3fDXSiRx/polymer-bundled-0.18.5%2B26.3.jar"
 hash-format = "sha512"
-hash = "6e16f286dbf52a4c58d524e112cddf15d29f741abc2d051e3a385f4059fa72911448a7b3c54a7856a884937d30826cb47d57424e0ce8ae0935c3e28f016d15cd"
+hash = "9a8c31e505048571b8679d3406794ba1b75bb072758aaff5ee956fb2ff33db00a12b420fb8953a390cab4ea9c93e43e5eff37e7f3ae2e07bbecffa5a58193a47"
 
 [update]
 [update.modrinth]
 mod-id = "xGdtZczs"
-version = "BkYLqhON"
+version = "3fDXSiRx"

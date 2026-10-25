@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "packetfixer-fabric-3.3.5-26.1.2.jar"
+filename = "PacketFixer-fabric-3.3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/OtkWHKqd/packetfixer-fabric-3.3.5-26.1.2.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/dTKbGYbb/PacketFixer-fabric-3.3.6.jar"
 hash-format = "sha512"
-hash = "d2dd589516f70448af3844611c9da2aa33db17916f9ff462c6ac0d226e9fb101326546f3687a6a7c5b5e3b591b254025b664fe831d07853cd7b4d291f4cfd38e"
+hash = "8d3139b150ef591c62b086f553be212bc72eb4a32b0b1f8bb5cc069a9b79a85046d31b1147e5aaff23e4b69bb92c76445d41884657a7b652def25e2b73d61613"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "OtkWHKqd"
+version = "dTKbGYbb"
