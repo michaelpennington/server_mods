@@ -9,8 +9,13 @@ file = "config/servux.json"
 hash = "bb54df2552f5267e473097ab8bdb99bbc9aa34a191d9fc5b3ec137728e036f65"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "a0e53802e7da8fa1ed68277b8daf58cae8337738124d5264ec7b97e226ff7577"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a94236b63468d24c06f176dc6321d41d19d4c29ee6e6e973932cdc43fef145f7"
+hash = "d42635f415c03bff51cb7e569a58d33f5f2204388c6a685b95598e7137666a15"
 metafile = true
 
 [[files]]
@@ -110,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+hash = "cd3810031564bf891a438798c7baab2085ec8dc4ff7acff4ccc053be092f460c"
 metafile = true
 
 [[files]]
@@ -121,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0b8dfdec9a2625121cdce419d34605e35689ba704cb4d75ada5cbfeeb77c6b4d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "e3b6962815bac8c8d791a396d36aec059c33644d63d3a526279db07464fbdd23"
 metafile = true
 
 [[files]]
